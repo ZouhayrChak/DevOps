@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\My laptop\\Desktop\\Container\\Info\\devOps\\nodejs-app\\DevOpsProject\\DevOpsProject.csproj": {}
+    "C:\\Users\\My laptop\\Desktop\\Container\\Info\\devOps\\dotnet-app\\DevOpsProject\\DevOpsProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\My laptop\\Desktop\\Container\\Info\\devOps\\nodejs-app\\DevOpsProject\\DevOpsProject.csproj": {
+    "C:\\Users\\My laptop\\Desktop\\Container\\Info\\devOps\\dotnet-app\\DevOpsProject\\DevOpsProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\My laptop\\Desktop\\Container\\Info\\devOps\\nodejs-app\\DevOpsProject\\DevOpsProject.csproj",
+        "projectUniqueName": "C:\\Users\\My laptop\\Desktop\\Container\\Info\\devOps\\dotnet-app\\DevOpsProject\\DevOpsProject.csproj",
         "projectName": "DevOpsProject",
-        "projectPath": "C:\\Users\\My laptop\\Desktop\\Container\\Info\\devOps\\nodejs-app\\DevOpsProject\\DevOpsProject.csproj",
+        "projectPath": "C:\\Users\\My laptop\\Desktop\\Container\\Info\\devOps\\dotnet-app\\DevOpsProject\\DevOpsProject.csproj",
         "packagesPath": "C:\\Users\\My laptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\My laptop\\Desktop\\Container\\Info\\devOps\\nodejs-app\\DevOpsProject\\obj\\",
+        "outputPath": "C:\\Users\\My laptop\\Desktop\\Container\\Info\\devOps\\dotnet-app\\DevOpsProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\My laptop\\AppData\\Roaming\\NuGet\\NuGet.Config"
