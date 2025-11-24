@@ -1,0 +1,15 @@
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\bin\Debug\net8.0\DevOpsProject.exe
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\bin\Debug\net8.0\DevOpsProject.deps.json
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\bin\Debug\net8.0\DevOpsProject.runtimeconfig.json
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\bin\Debug\net8.0\DevOpsProject.dll
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\bin\Debug\net8.0\DevOpsProject.pdb
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\obj\Debug\net8.0\DevOpsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\obj\Debug\net8.0\DevOpsProject.AssemblyInfoInputs.cache
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\obj\Debug\net8.0\DevOpsProject.AssemblyInfo.cs
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\obj\Debug\net8.0\DevOpsProject.csproj.CoreCompileInputs.cache
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\obj\Debug\net8.0\DevOpsProject.sourcelink.json
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\obj\Debug\net8.0\DevOpsProject.dll
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\obj\Debug\net8.0\refint\DevOpsProject.dll
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\obj\Debug\net8.0\DevOpsProject.pdb
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\obj\Debug\net8.0\DevOpsProject.genruntimeconfig.cache
+C:\Users\My laptop\Desktop\Container\Info\devOps\dotnet-app\DevOpsProject\obj\Debug\net8.0\ref\DevOpsProject.dll
